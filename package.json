@@ -1,0 +1,19 @@
+{
+  "name": "demorepo",
+  "version": "1.0.0",
+  "description": "demo repository for brothers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilvirD/DemoRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilvirD/DemoRepo/issues"
+  },
+  "homepage": "https://github.com/SilvirD/DemoRepo#readme"
+}
